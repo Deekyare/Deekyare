@@ -70,7 +70,7 @@
 <br>
 <br>
 
-## <b> ¡Conecta conmigo!</b> 
+## <b> ¡Contactá conmigo!</b> 
 <br>
 <div align='left'>
 <ul>
