@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hola, soy Silvia G.</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola, soy Silvia Giardini.</b> width="35"></h1>
 
 
 <br>
@@ -9,12 +9,11 @@
 
 <br>
 
-- Desarrolladora web autodidacta con pasión por crear soluciones digitales innovadoras.
-- Estudiante de informática en la UTN, enfocada en desarrollo web (HTML, CSS, JavaScript, React, Bootstrap) y algoritmos.
-- Certificada en Business Intelligence por Talento Tech (Ministerio de Educación, CABA), con experiencia en análisis de datos.
-- Docente de educación infantil en Argentina, adaptando mi enseñanza a las necesidades de los alumnos.
+- Desarrolladora web autodidacta 
+- Estudiante de informática en la UTN, enfocada en desarrollo web (HTML, CSS, JavaScript, React, Bootstrap).
+- Conocimientos básicos en Business Intelligence 
 - Mi portafolio: [silviag-portfolio](https://porfolio-silviag.netlify.app/)
-- ¡Estoy abierta a colaboraciones y nuevas oportunidades! Aquí está [mi CV](enlace-a-tu-CV) (agrega el enlace si tienes uno).
+- ¡Estoy abierta a colaboraciones y nuevas oportunidades!
 
 <br><br>
 
