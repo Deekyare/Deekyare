@@ -2,9 +2,8 @@
 
 <br>
 
-## <picture><img src="https://media.giphy.com/media/3o7TKRkT2m6PTk3oIW/giphy.gif" width="50px"></picture> **Sobre mí**
+:ok_woman: **Sobre mí**
 
-<picture> <img align="right" src="https://media.giphy.com/media/LXU5uY9A8d7Sk/giphy.gif" width="250px"></picture>
 
 <br>
 
