@@ -2,9 +2,9 @@
 
 <br>
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **Sobre mí**
+## <picture><img src="https://media.giphy.com/media/3o7TKRkT2m6PTk3oIW/giphy.gif" width="50px"></picture> **Sobre mí**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/LXU5uY9A8d7Sk/giphy.gif" width="250px"></picture>
 
 <br>
 
@@ -90,13 +90,5 @@
 </ul>
 </div>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
 
-<div align='center'>
 
-## <b>¡Gracias por visitar mi perfil! ✨</b>
-
-</div>
