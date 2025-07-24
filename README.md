@@ -1,4 +1,8 @@
-<h1 align="center"><b>Hola, soy Silvia Giardini </b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
+
+<h1 align="center"><b>Hola, soy Silvia Giardini </b>   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <br>
 
@@ -73,7 +77,7 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/tu-linkedin" target="_blank">
+<a href="www.linkedin.com/in/silviagiardini" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  SilviaG-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
@@ -81,7 +85,7 @@
 <br>
 
 <li>
-<a href="mailto:tu-email@gmail.com" target="_blank">
+<a href="giardinisil@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  SilviaG-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
