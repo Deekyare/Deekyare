@@ -12,7 +12,7 @@
 <br>
 
 - Desarrolladora web autodidacta 
-- Estudiante de informática en la UTN, enfocada en desarrollo web (HTML, CSS, JavaScript, React, Bootstrap).
+- Estudiante de la Tecnicatura Universitaria en Programación en UTN
 - Conocimientos básicos en Business Intelligence 
 - Mi portafolio: [silviag-portfolio](https://porfolio-silviag.netlify.app/)
 - ¡Estoy abierta a colaboraciones y nuevas oportunidades!
